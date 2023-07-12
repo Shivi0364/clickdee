@@ -1,0 +1,15 @@
+.card {
+  height: 300px;
+  width: 300px;
+  float: left;
+  margin-left: 5px;
+  padding: 10px;
+  text-align: center;
+}
+.card h2 {
+  color: navy;
+  font-weight: normal;
+}
+.card p {
+  color: #666362;
+}
